@@ -1,2 +1,2 @@
 # WoMart-Sales-Prediction
-This repository is all about predicting the sales of marketing company  
+This repository is all about predicting sales for a marketing company  
