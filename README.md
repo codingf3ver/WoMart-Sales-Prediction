@@ -4,7 +4,7 @@
 # WOMART SALES PREDICTION 
 
 ```
-This repository is all about forecasting sales for 2 months for a WoMart Reatil Limited
+This repository is all about forecasting sales for 2 months for a WoMart Retail Limited
 
 ```
 
@@ -16,7 +16,7 @@ The entire solution for the project has been divided into three parts
 •	Choosing the right model and evaluating its performance
 
 ```
-## Cleaning the data 
+# DATA CLEANING
 
 ```
 
@@ -34,7 +34,7 @@ to the drop the column instead I have trained the model and find out the order f
 
 ```
 
-## Extracting Information and applying feature engineering
+# EXTRACTING INFORMATION AND APPLYING FEATURE ENGINEERING
 
 ```
 
@@ -66,7 +66,8 @@ discarded the rows with IQR (inter quartile range) around 5k rows has been delet
 
 ```
 
-## Model Selection and Performance evaluation 
+## MODEL SELECTION AND PERFORMANCE EVALUATION
+
 
 ```
 
@@ -87,7 +88,7 @@ catBoost regressor has given mean accuracy of around 0.97 which is good for any 
 ```
 
 ```
-Thats all Thanks!!!
+That's all Thanks!!!
 
 ```
 
