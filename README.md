@@ -4,7 +4,7 @@
 # WOMART SALES PREDICTION 
 
 ```
-This repository is all about forecasting sales for a WoMart
+This repository is all about forecasting sales for 2 months for a WoMart Reatil Limited
 
 ```
 
