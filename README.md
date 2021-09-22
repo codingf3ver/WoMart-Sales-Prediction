@@ -1,7 +1,12 @@
-# WoMart-Sales-Prediction
+
+
+
+# WOMART SALES PREDICTION 
+
+```
 This repository is all about forecasting sales for a WoMart
 
-## WOMART SALES PREDICTION 
+```
 
 ```
 
