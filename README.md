@@ -79,12 +79,12 @@ give me better accuracy on new test data.
 
 ```
 Now I have trained the model particularly supervised M.L linear regression, lasso regression, Random Forest Regressor, 
-catBoost regressor outclassed most 
+catBoost regressor outclassed all of them
 
 ```
 
 ```
-catBoost regressor has given mean accuracy of around 0.97 which is good for any test dataset
+catBoost regressor has given mean cross validation accuracy of around 0.97 which is good for any test dataset
 
 ```
 
