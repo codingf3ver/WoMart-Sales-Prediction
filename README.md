@@ -62,8 +62,9 @@ although we can replace with a mean but in that case it will overfit the model o
 
 ```
 
-After visualisation I have found that ‘Sales’ column is slightly rightly skewed So to deal with the outliers simply 
-discarded the rows with IQR (inter quartile range) around 5k rows has been deleted from the original dataset.
+After visualisation I have found that ‘Sales’ column is slightly right skewed so to deal with the outliers simply 
+discarded the rows with IQR (inter quartile range) around 5k rows has been deleted from the original dataset
+although you can log transform the skewed data.
 
 ```
 
